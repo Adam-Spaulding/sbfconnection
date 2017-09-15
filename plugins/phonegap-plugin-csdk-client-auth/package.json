@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "phonegap-plugin-csdk-client-auth@^1.0.6",
+        "scope": null,
+        "escapedName": "phonegap-plugin-csdk-client-auth",
+        "name": "phonegap-plugin-csdk-client-auth",
+        "rawSpec": "^1.0.6",
+        "spec": ">=1.0.6 <2.0.0",
+        "type": "range"
+      },
+      "/Users/mojado/Documents/Project/Ionc3/SBFC-master/node_modules"
+    ]
+  ],
+  "_from": "phonegap-plugin-csdk-client-auth@>=1.0.6 <2.0.0",
+  "_id": "phonegap-plugin-csdk-client-auth@1.0.6",
+  "_inCache": true,
+  "_location": "/phonegap-plugin-csdk-client-auth",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/phonegap-plugin-csdk-client-auth-1.0.6.tgz_1480463860672_0.8003541678190231"
+  },
+  "_npmUser": {
+    "name": "macdonst",
+    "email": "simon.macdonald@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "phonegap-plugin-csdk-client-auth@^1.0.6",
+    "scope": null,
+    "escapedName": "phonegap-plugin-csdk-client-auth",
+    "name": "phonegap-plugin-csdk-client-auth",
+    "rawSpec": "^1.0.6",
+    "spec": ">=1.0.6 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/phonegap-plugin-csdk-client-auth/-/phonegap-plugin-csdk-client-auth-1.0.6.tgz",
+  "_shasum": "b303235cd3e8bd5c0ff980b048c617a9e0c44926",
+  "_shrinkwrap": null,
+  "_spec": "phonegap-plugin-csdk-client-auth@^1.0.6",
+  "_where": "/Users/mojado/Documents/Project/Ionc3/SBFC-master/node_modules",
+  "author": {
+    "name": "Adobe"
+  },
+  "bugs": {
+    "url": "https://github.com/CreativeSDK/phonegap-plugin-csdk-client-auth/issues"
+  },
+  "cordova": {
+    "id": "phonegap-plugin-csdk-client-auth",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "description": "This repo is a template for starting a new plugin.",
+  "devDependencies": {
+    "jasmine-node": "1.14.5",
+    "pluginpub": "^0.0.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b303235cd3e8bd5c0ff980b048c617a9e0c44926",
+    "tarball": "https://registry.npmjs.org/phonegap-plugin-csdk-client-auth/-/phonegap-plugin-csdk-client-auth-1.0.6.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "1e2e3571fab284f4a16e7670ba24cfdbf81f218d",
+  "homepage": "http://github.com/CreativeSDK/phonegap-plugin-csdk-client-auth#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "ashryan",
+      "email": "sayhi@ashryanbeats.com"
+    },
+    {
+      "name": "macdonst",
+      "email": "simon.macdonald@gmail.com"
+    }
+  ],
+  "name": "phonegap-plugin-csdk-client-auth",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CreativeSDK/phonegap-plugin-csdk-client-auth.git"
+  },
+  "scripts": {
+    "test": "jasmine-node --color spec"
+  },
+  "version": "1.0.6"
+}
